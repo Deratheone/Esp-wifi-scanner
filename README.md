@@ -2,6 +2,8 @@
 
 ESP32 WiFi scanner with network analysis - displays SSID, BSSID, signal strength, security types, and risk assessment
 
+![Scanner Output](scanner_output.jpg)
+
 ## Educational Project
 
 This project is designed for learning ESP32 programming and WiFi scanning concepts.
